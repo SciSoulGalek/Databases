@@ -1,4 +1,5 @@
---1: Database created
+--1
+create database lab2;
 --2
 create table countries(
 	country_id serial primary key,
